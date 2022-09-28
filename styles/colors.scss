@@ -1,0 +1,20 @@
+// Colors
+
+$primary: #00874b;
+$primary-light: #99c8b3;
+$primary-dark: #0d3322;
+$primary-grey: #71877d;
+
+$black: #181818;
+
+$white: #fafafa;
+$white-50: #fafafa80;
+$white-25: #fafafa40;
+
+// Gradients
+
+$primary-gradient: radial-gradient(
+  50% 50% at 50% 50%,
+  $primary 0%,
+  #006f3d 100%
+);

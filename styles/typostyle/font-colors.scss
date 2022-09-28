@@ -1,0 +1,28 @@
+@import "../colors.scss";
+
+// Primary
+
+.fc-p {
+  color: $primary;
+}
+.fc-pl {
+  color: $primary-light;
+}
+.fc-pd {
+  color: $primary-dark;
+}
+.fc-pg {
+  color: $primary-grey;
+}
+
+// Black
+
+.fc-b {
+  color: $black;
+}
+
+// White
+
+.fc-w {
+  color: $white;
+}
