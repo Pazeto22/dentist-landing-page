@@ -17,6 +17,95 @@ function Home() {
         <title>Dentista | Landing Page</title>
       </Head>
       <Banner />
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p> <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p> <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p> <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
+      <p>Teste para Scroll</p>
     </>
   );
 }
