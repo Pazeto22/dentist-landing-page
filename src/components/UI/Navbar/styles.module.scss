@@ -1,0 +1,100 @@
+@import "../../../../styles/colors.scss";
+
+.navbarWrapper {
+  z-index: 9;
+  position: fixed;
+  width: 100%;
+}
+
+.navbarSection {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 80px;
+  width: 100%;
+  background: $white-50;
+  background: linear-gradient(135deg, $white-50 40%, $primary-50 40%);
+
+  transition: linear 0.2s;
+  transition-duration: 0.2s;
+
+  @media (max-width: 800px) {
+    background-color: $white-50;
+    backdrop-filter: blur(8px);
+    height: 75px;
+  }
+
+  img {
+    height: 48px;
+    width: auto;
+  }
+}
+
+.navbarSectionContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+// O que acontece ao scrollar
+.navbarScroll {
+  background: $white !important;
+  background: linear-gradient(135deg, $white 30%, $primary 30%);
+  // box-shadow: 0px 10px 44px rgba(0, 0, 0, 0.07);
+  box-shadow: 0px 10px 12px -4px rgba(0, 0, 0, 0.06);
+  backdrop-filter: blur(30px);
+
+  .navbarMenu > img {
+    height: 24px;
+  }
+
+  .navbarMenuLinks > a {
+    color: $black;
+
+    &:hover {
+      color: $primary-grey;
+    }
+  }
+}
+
+.navbarMenuLinks {
+  display: flex;
+  gap: 2.5rem;
+
+  a {
+    color: $white;
+
+    -webkit-transition: all 0.5s 0s ease;
+    -moz-transition: all 0.5s 0s ease;
+    -o-transition: all 0.5s 0s ease;
+    transition: all 0.5s 0s ease;
+
+    &:hover {
+      color: $white-50;
+    }
+  }
+
+  @media (max-width: 800px) {
+    display: none;
+  }
+}
+
+.navbarMenuLinksInfo {
+  cursor: default;
+  display: flex;
+  gap: 0.5rem;
+
+  img {
+    max-height: 16px;
+    width: auto;
+  }
+
+  &:hover {
+    opacity: 50%;
+  }
+}
+
+.navbarMenuLinksInfo:first-of-type {
+  padding-left: 2rem;
+  border-left: 1px solid $white-25;
+}

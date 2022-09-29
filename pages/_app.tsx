@@ -10,9 +10,13 @@ import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
 import "@fontsource/lora/700.css";
 
+// Componentes
+import Navbar from "components/UI/Navbar";
+
 function App({ Component, pageProps }: AppProps) {
   return (
     <>
+      <Navbar />
       <Component {...pageProps} />
     </>
   );
