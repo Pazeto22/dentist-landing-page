@@ -1,4 +1,4 @@
-#Landing Page Dentista
+# Landing Page Dentista
 
 ###### Em Desenvolvimento
 
@@ -10,11 +10,11 @@
 
 **Link:** https://dentist-landing-page-u7wp.vercel.app
 
-# Preview
+## Preview
 
 ![Preview](https://i.imgur.com/QXvBkBA.jpg "Preview")
 
-# Como rodar
+## Como rodar
 
 - Clone o repositório
 - Instale as dependências com yarn ou npm
