@@ -1,16 +1,22 @@
 import Head from "next/head";
 
+import Section from "components/Section";
+
+// Componentes
+import Banner from "components/Pages/Home/Banner";
+
 function Home() {
   return (
     <>
       <Head>
-        <meta property="og:title" content="ColdPixel" key="title" />
+        <meta property="og:title" content="Dentista" key="title" />
         <meta
           name="description"
-          content="Soluções WEB sob medida para o seu negócio. Lojas, landing pages e sistemas diversos."
+          content="Landing page desenvolvida com React, Next e Typescript. Hospedado na Vercel."
         />
-        <title>ColdPixel | Soluções Web</title>
+        <title>Dentista | Landing Page</title>
       </Head>
+      <Banner />
     </>
   );
 }

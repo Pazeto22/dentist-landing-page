@@ -18,7 +18,7 @@ const nextConfig = {
   },
 
   images: {
-    domains: ["www.evacommerce.com.br", "www.arquivos.plataformaeva.com"],
+    // domains: ["www.site.com.br"],
     formats: ["image/avif", "image/webp"],
   },
 };
